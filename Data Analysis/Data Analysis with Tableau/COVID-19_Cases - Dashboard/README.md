@@ -8,3 +8,12 @@ Checkout this interactive Tableau Dashboard - [COVID19 Cofirmed Cases](https://p
 ##### Preview
 ![Dashboard](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Data%20Analysis/Data%20Analysis%20with%20Tableau/COVID-19_Cases%20-%20Dashboard/Tableau%20-%20Covid19%20Dashboard.png)
 
+### Exploring this Dataset:
+- Visualization of Covid19 confirmed cases by location
+- Total Number of cases which are confirmed around the world
+- Total Number of Cases (Confirmed/Not Confirmed)
+- Covid confirmed cases
+- Covid confirmed death cases
+- Top 10 Countries with Confirmed Cases
+- Top 10 Countries with Loss of Life
+- The Top 5 Average Distance Covered
