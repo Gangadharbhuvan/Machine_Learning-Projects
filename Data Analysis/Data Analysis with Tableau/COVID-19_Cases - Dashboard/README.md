@@ -1,5 +1,5 @@
 ### Data Analysis with Tableau
-#### Air Travel Data Dashboard
+#### Covid19 Cases Dashboard
 
 Dataset Source - [Tableau COVID_19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources)
 
