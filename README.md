@@ -1,4 +1,4 @@
-# Machine-Learning-its-Projects
+# Machine-Learning-Projects
 All about Machine Learning and its Projects
 
 Current Projects:
@@ -9,3 +9,4 @@ Current Projects:
 - Web Scrapping
 
 
+currently working on Flask Face Recgnition app
