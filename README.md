@@ -9,4 +9,4 @@ Current Projects:
 - Web Scrapping
 
 
-currently working on Flask Face Recgnition app
+currently working on Flask Face Recognition web app
