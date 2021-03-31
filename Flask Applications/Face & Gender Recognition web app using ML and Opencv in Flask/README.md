@@ -48,4 +48,11 @@ Upload Image -> Crop Image(face) -> Data Preprocessing -> Feature Extraction -> 
 
 <hr>
 
+## Flask:
+![Flask](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask/Face_Recognition-Flask_app/images/Flask-webapp.png)
 
+- Installation - ``` pip install flask ```
+**Flask** - Its a lightweight WSGI (Web Server Gateway Interface) web application framework
+- Its designed to make quick & easy web app
+- Has ability to scale up complex applicationn
+- written in Python.
