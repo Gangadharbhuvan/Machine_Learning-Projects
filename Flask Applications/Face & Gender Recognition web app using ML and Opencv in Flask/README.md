@@ -17,3 +17,15 @@ Using this as a base, anyone can build more advanced app for Face Emotion detect
   - Now a folder has been created in the name of virtual Env (FaceAI in this code), Go to the folder then, To activate that Virtual Environment
     - Windows -> ``` .\FaceAI\Scripts\activate ```
     - Linux -> ``` source FaceAI/bin/activate ```
+- Requirements -> ``` pip install -r requirements.txt ```
+- OpenCV - ``` pip install opencv-python ```
+
+![OpenCV Python](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask/Face_Recognition-Flask_app/images/opencv-python.png)
+
+### Download the dataset:
+[Download faces data (1GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+
+[Download haarcascae classifier (face)](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+
+
+
