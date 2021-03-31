@@ -1,0 +1,10 @@
+# Face and Gender Recognition web app using Machine Learning and OpenCV in FLask
+![Face Recognition](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask/Face_Recognition-Flask_app/images/young-man-face-recognition-biometric-verification-165406876.jpg)
+### This is the project created in Flask, the front-end is developed with HTML,CSS,Bootstrap and back-end in entirely in Python, all together running in the Flask WebServer.
+
+## Here, created the image processing application is Face Recognition. The task here is to detect the face along with the gender(Male/Female).
+
+# Working:
+Upload Image -> Process image in Flask app with ML Model -> Detect the Face & Gender.
+Using this as a base, anyone can build more advanced app for Face Emotion detection and other so on.
+
