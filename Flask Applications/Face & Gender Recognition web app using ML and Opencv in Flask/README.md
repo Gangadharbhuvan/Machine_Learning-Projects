@@ -2,6 +2,8 @@
 ![Face Recognition](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask/Face_Recognition-Flask_app/images/young-man-face-recognition-biometric-verification-165406876.jpg)
 ### This is the project created in Flask, the front-end is developed with HTML,CSS,Bootstrap and back-end in entirely in Python, all together running in the Flask WebServer.
 
+<hr>
+
 ## Here, created the image processing application is Face Recognition. The task here is to detect the face along with the gender(Male/Female).
 
 # Working:
@@ -22,10 +24,28 @@ Using this as a base, anyone can build more advanced app for Face Emotion detect
 
 ![OpenCV Python](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask/Face_Recognition-Flask_app/images/opencv-python.png)
 
+<hr>
+
 ### Download the dataset:
 [Download faces data (1GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
 [Download haarcascae classifier (face)](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
+<hr>
+
+## Project Overview:
+**Objective**: Create a Gender Classification Model and Integrate to Flask App, task is to develop a ML model which should automatically detect faces and classify gender.
+
+**Deliverables**: Developa Flask app and integrate to ML model, User will upload a image and app (RestAPI web server) has to detect the face and identify gender.
+
+<hr>
+
+**High Level Diagram**: 
+![Pipeline](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask/Face_Recognition-Flask_app/images/pipeline.png)
+
+## Machine Model Application Flow: 
+Upload Image -> Crop Image(face) -> Data Preprocessing -> Feature Extraction -> ML Model -> Output
+
+<hr>
 
 
