@@ -78,3 +78,10 @@ Upload Image -> Crop Image(face) -> Data Preprocessing -> Feature Extraction -> 
 - Its designed to make quick & easy web app
 - Has ability to scale up complex applicationn
 - written in Python.
+
+<hr>
+
+## To Run this app in Localhost:
+- clone this website
+- cd to flask app folder
+- run ``` python main.py ```
