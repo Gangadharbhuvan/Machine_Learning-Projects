@@ -82,6 +82,6 @@ Upload Image -> Crop Image(face) -> Data Preprocessing -> Feature Extraction -> 
 <hr>
 
 ## To Run this app in Localhost:
-- clone this website
+- clone this Repository
 - cd to flask app folder
 - run ``` python main.py ```
