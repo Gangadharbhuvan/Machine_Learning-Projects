@@ -34,6 +34,7 @@
 
 # 3. Web Scrapping
   - ##  Web Scraping Amazon's Best Sellers Books page
+    - [Checkout Here for Project details](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Scraping-Amazon_Bestseller_Books)
     - ## Here I'm scraping Amazon's Bestseller Books webpage, using most popular scraping technology - **Scrapy**
       For more info about Scrapy checkout Documentation - [Scrapy](https://docs.scrapy.org/en/latest/)
 
