@@ -1,5 +1,4 @@
 # Machine-Learning-Projects
-### All about Machine Learning and its Projects
 
 ## Current Projects:
 # 1. Data Analysis with Tableau
@@ -22,9 +21,9 @@
 <hr>
 
 
-# 2. Flask Website
+# 2. Flask Webapp
   - ## Face and Gender Recognition web app using Machine Learning and OpenCV in Flask
-    - ## [Click Here for Project details](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask)
+    -   Checkout here - [Project details](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask)
 
          ![Male](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask/Face_Recognition-Flask_app/images/male_recognition.png)
 
@@ -34,7 +33,7 @@
 
 # 3. Web Scrapping
   - ##  Web Scraping Amazon's Best Sellers Books page
-    - [Checkout Here for Project details](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Scraping-Amazon_Bestseller_Books)
+    -   Checkout here - [Project details](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Scraping-Amazon_Bestseller_Books)
     - ## Here I'm scraping Amazon's Bestseller Books webpage, using most popular scraping technology - **Scrapy**
       For more info about Scrapy checkout Documentation - [Scrapy](https://docs.scrapy.org/en/latest/)
 
