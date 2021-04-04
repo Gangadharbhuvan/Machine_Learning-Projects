@@ -79,6 +79,7 @@ Upload Image -> Crop Image(face) -> Data Preprocessing -> Feature Extraction -> 
 - Has ability to scale up complex applicationn
 - written in Python.
 
+*Checkout - [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x)
 <hr>
 
 ## To Run this app in Localhost:
