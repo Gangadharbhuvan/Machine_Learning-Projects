@@ -49,4 +49,5 @@
 <hr>
 
 
-Currently working on Deep Learning - Neural Networks
+Currently working on various Machine Learning algorithms.
+
