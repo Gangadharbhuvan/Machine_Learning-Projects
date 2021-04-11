@@ -49,5 +49,5 @@
 <hr>
 
 
-Currently working on various Machine Learning algorithms.
+Currently working on various Machine Learning algorithms and Deep Learning project.
 
