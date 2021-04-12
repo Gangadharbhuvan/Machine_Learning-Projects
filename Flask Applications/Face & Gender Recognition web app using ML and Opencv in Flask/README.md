@@ -79,6 +79,21 @@ Upload Image -> Crop Image(face) -> Data Preprocessing -> Feature Extraction -> 
 - Has ability to scale up complex applicationn
 - written in Python.
 
+### Basic template for Flask
+```
+from flask import Flask
+app = Flask(__name__)
+
+
+@app.route('/')
+def hello():
+    return "Hello World!"
+
+if __name__ == '__main__':
+    app.run()
+
+```
+
 *Checkout - [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x)
 <hr>
 
