@@ -93,8 +93,9 @@ if __name__ == '__main__':
     app.run()
 
 ```
+Use this above template code to get started with creating webapps in Flask
 
-*Checkout - [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x)
+*Checkout* - [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x)
 <hr>
 
 ## To Run this app in Localhost:
