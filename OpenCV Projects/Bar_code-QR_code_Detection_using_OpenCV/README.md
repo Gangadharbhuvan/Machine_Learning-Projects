@@ -12,8 +12,6 @@ Then run
 python Bar_QR-Code_Detection.py
 ```
 
-Detect the input images or try with Webcam to detect the QR and Bar code
-
 Checkout - 
 Input Image
 
@@ -24,3 +22,5 @@ Input Image
 Detected Image
 
 ![Results](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/OpenCV%20Projects/Bar_code-QR_code_Detection_using_OpenCV/results/bar-code.png)
+
+## Note: This works for both Image as input or even with Webcam to scan Bar/QR Code
