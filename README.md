@@ -32,7 +32,7 @@
 
 # 3. OpenCV Projects
   - ## Human Pose Estimation using Computer vision Techniques
-     - Checkout here [Human Pose Estimation](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/OpenCV%20Projects/Human_Pose_Estimation_using_OpenCV)- 
+     - Checkout here [Human Pose Estimation](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/OpenCV%20Projects/Human_Pose_Estimation_using_OpenCV)
 
      - Input Image
 
