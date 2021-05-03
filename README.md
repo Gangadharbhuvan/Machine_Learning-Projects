@@ -30,7 +30,23 @@
 
 <hr>
 
-# 3. OpenCV PRojects
+# 3. OpenCV Projects
+  - ## Human Pose Estimation using Computer vision Techniques
+     - Checkout here [Human Pose Estimation](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/OpenCV%20Projects/Human_Pose_Estimation_using_OpenCV)- 
+
+     - Input Image
+
+        ![Image](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/OpenCV%20Projects/Human_Pose_Estimation_using_OpenCV/data/Img_1.png)
+        
+
+        Pose Detected Image
+
+        ![Results](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/OpenCV%20Projects/Human_Pose_Estimation_using_OpenCV/results/Pose_1.png)
+
+
+  <hr>
+
+
   - ## QR & Bar code Detection using OpenCV
      - Checkout here - [QR/Bar code Detection](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/OpenCV%20Projects/Bar_code-QR_code_Detection_using_OpenCV) 
 
