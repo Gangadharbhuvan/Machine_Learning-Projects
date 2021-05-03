@@ -30,8 +30,26 @@
 
 <hr>
 
+# 3. OpenCV PRojects
+  - ## QR & Bar code Detection using OpenCV
+     - Checkout here - [QR/Bar code Detection](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/OpenCV%20Projects/Bar_code-QR_code_Detection_using_OpenCV) 
 
-# 3. Web Scrapping
+
+    -   Input Image
+
+        ![Image](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/OpenCV%20Projects/Bar_code-QR_code_Detection_using_OpenCV/data/bar_code/bar-code_2.png)
+
+        <hr>
+
+        Detected Image
+
+        ![Results](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/OpenCV%20Projects/Bar_code-QR_code_Detection_using_OpenCV/results/bar-code.png)
+
+        ## Note: This works for both Image as input or even with Webcam to scan Bar/QR Code
+
+<hr>
+
+# 4. Web Scrapping
   - ##  Web Scraping Amazon's Best Sellers Books page
     -   Checkout here - [Project details](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Scraping-Amazon_Bestseller_Books)
     - ## Here I'm scraping Amazon's Bestseller Books webpage, using most popular scraping technology - **Scrapy**
