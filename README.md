@@ -2,7 +2,7 @@
 
 ## Current Projects:
 # 1. Data Analysis with Tableau
-  - ## San Francisco Airport Dashboard
+  - ## San Francisco Airport Dashboard 
      -  Checkout here - [Air Travel Data](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Data%20Analysis/Data%20Analysis%20with%20Tableau/Air%20Travel%20Data%20-%20Daskboard)
 
            ##### Preview
@@ -10,7 +10,7 @@
 
     <hr> 
 
-  - ## Covid19 Cases Dashboard
+  - ## Covid19 Cases Dashboard (Interactive)
 
      -   Checkout here - [COVID19 Cases](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Data%20Analysis/Data%20Analysis%20with%20Tableau/COVID-19_Cases%20-%20Dashboard)
 
