@@ -5,6 +5,7 @@ first install some packages
 ```
 pip install opencv-python
 pip install pyxbar
+pip install numpy
 ```
 
 Then run
