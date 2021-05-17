@@ -17,7 +17,7 @@ class BooksSpider(scrapy.Spider):
                 'Url': response.urljoin(product.xpath(".//span[@class='aok-inline-block zg-item']/a/@href").get()),
                 'Ratings': product.xpath(".//span[@class='a-icon-alt']/text()").get(),
                 'Price': product.xpath(".//span/span[@class='p13n-sc-price']/text()").get(),
-                'Img': product.xpath("//div[@class='a-section a-spacing-small']/img/@src").get() 
+                'Img': product.xpath(".//div[@class='a-section a-spacing-small']/img/@src").get() 
                  
             }
 
