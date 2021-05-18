@@ -4,7 +4,7 @@ To run this code,
 first install some packages
 ```
 pip install opencv-python
-pip install pyxbar
+pip install pyzbar
 pip install numpy
 ```
 
