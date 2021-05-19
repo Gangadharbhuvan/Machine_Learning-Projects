@@ -10,3 +10,6 @@ For more info about Scrapy checkout Documentation - [Scrapy](https://docs.scrapy
 #### Ouput CSV File:
 
 ![Result](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Scraping-Amazon_Bestseller_Books/results/preview_output.png)
+
+
+![Scrapped Results with Image Links](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/blob/master/Scraping-Amazon_Bestseller_Books/results/dataset.png)
