@@ -28,6 +28,22 @@
 ## Here, created the image processing application is Face Recognition. The task here is to detect the face along with the gender(Male/Female).
 
 # Working:
+1. We have the data in seperate folder for male and female.
+2. Read an image, convert to grayscale, apply haarcascade, where it detects face in bounding box.
+3. Similarly appy haarcascade to all faces in data.
+4. Resize the image to 100x100 array.
+5. Take only the detected face for all image, and save it in pickle format. 
+6. Performing Min-Max scaling for Rescaling all image into a single form.
+7. 
+
+
+
+
+
+
+
+
+# Working:
 Upload Image -> Process image in Flask app with ML Model -> Detect the Face & Gender.
 Using this as a base, anyone can build more advanced app for Face Emotion detection and other so on.
 
