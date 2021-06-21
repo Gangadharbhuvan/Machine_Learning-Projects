@@ -34,7 +34,10 @@
 4. Resize the image to 100x100 array.
 5. Take only the detected face for all image, and save it in pickle format. 
 6. Performing Min-Max scaling for Rescaling all image into a single form.
-7. 
+7. Apply PCA on eigen values to above data, with no. of components = 50, apply this for all images and convert that to pickle file.
+8. Then apply SVC (SVC(C=1.0,kernel='rbf',gamma=0.01,probability=True)), then evaluate the model.
+9. Then perform Hyperparameter tuning with SVC, for better results, and to obtain the model.
+10. Save the Model, dump it to pickle.
 
 
 
